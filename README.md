@@ -11,7 +11,7 @@ A node.js starter project using TypeScript.
 - [ts-node-dev](https://github.com/wclr/ts-node-dev) for live reloading during development
 - [dotenv](https://github.com/motdotla/dotenv) to load environment variables only for development ([preload approach](https://github.com/motdotla/dotenv/blob/master/README.md#preload) is being used)
 - [ESLint](https://eslint.org/) + [Prettier](https://prettier.io/) + [Husky](https://typicode.github.io/husky/#/)
-- Yarn
+- [Yarn](https://yarnpkg.com/)
 - [jest](https://jestjs.io/) for testing + ESLint Plugin + Coverage
 
 ## Basic scripts
