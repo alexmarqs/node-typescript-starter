@@ -1,9 +1,7 @@
-import { author, version, name } from '../package.json';
 import config from './config';
 
 const main = async () => {
-  console.log(`${config.welcomeMsg} @ ${config.author || author}`);
-  console.log(`App info: ${name} v${version}`);
+  console.log(`${config.welcomeMsg} @ ${config.author} || alexmarqs`);
 };
 
 main().catch((err) => {
